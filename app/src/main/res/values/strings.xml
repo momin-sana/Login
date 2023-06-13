@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SharePreferenceApplication</string>
+    <string name="login_page">Login</string>
+    <string name="welcome_fragment">Congratulation! You are successfully login</string>
+    <string name="registration_fragment">Create an account</string>
+    <string name="user_not_found">User not Found! Please Register First</string>
+    <string name="registration_fragment_welcome">Welcome, please fill the following</string>
+    <string name="registration_fragment_signin">Already have an account? SignIn</string>
+    <string name="registration_fragment_signup">SignUp</string>
+    <string name="username_error">User Name must match requirements.</string>
+    <string name="password_error">Password must match requirements.</string>
+    <string name="emailAddress_error">Please Enter a Valid Email Address</string>
+    <string name="emailAddress_password_error">Invalid Email Address or Password</string>
+    <string name="invalid_password_error">Invalid Password</string>
+    <string name="username_password_error">Invalid Username or Password</string>
+    <string name="fieldEmpty_error">Field Cannot be Empty</string>
+    <string name="create_user_name">User Name</string>
+    <string name="create_password">Create Password</string>
+    <string name="enter_your_email_address">Email Address</string>
+    <string name="email_order">Follow Order: ab_1-Sd@example.com</string>
+    <string name="email_Login">Login with Username or Email</string>
+    <string name="password_login">Password</string>
+    <string name="username_requirements">Follow Order: \n
+                        * all lower case letter\n
+                        * no white spaces\n
+                        * at least 8-15 characters</string>
+
+</resources>
